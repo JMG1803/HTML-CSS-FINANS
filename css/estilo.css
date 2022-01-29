@@ -1,0 +1,21 @@
+#home {
+	background:#27E29F;
+	color: white;
+}
+#fundo{
+	background-color: #27E29F;
+}
+#pao{
+	padding-right: 70px;
+}
+#maca{
+	padding-right: 50px;
+}
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
